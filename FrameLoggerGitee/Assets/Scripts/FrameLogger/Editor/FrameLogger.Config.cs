@@ -31,9 +31,6 @@ namespace FrameLogger.Editor
         /// </summary>
         public static readonly string[] s_chooseFuncNames =
         {
-            "Release",
-            "Reset",
-            "Action"
         };
 
         //要屏蔽的文件夹路径(路径默认从Assets下开始)
